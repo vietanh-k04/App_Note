@@ -1,4 +1,4 @@
-# 📝 App Note – Ứng dụng ghi chú Pastel (Kotlin)
+# 📝 App Note – Ứng dụng ghi chú (Kotlin)
 
 Một ứng dụng ghi chú đơn giản, nhẹ, giao diện pastel đẹp mắt, hỗ trợ chế độ Dark/Light và lưu trữ bằng Room Database.
 
