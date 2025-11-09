@@ -68,5 +68,3 @@ Một ứng dụng ghi chú đơn giản, nhẹ, giao diện pastel đẹp mắt
 │  
 ├── ViewPagerAdapter.kt  
 └── NoteAdapter.kt  
-
----
