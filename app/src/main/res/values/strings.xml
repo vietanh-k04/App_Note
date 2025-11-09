@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AppNote</string>
+    <string name="nav_hint_all">All Notes</string>
+    <string name="nav_hint_favorite">Favorites</string>
+    <string name="nav_hint_setting">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_hint_note">App quản lí ghi chú</string>
+    <string name="setting_hint_mode">Chế độ tối</string>
+    <string name="setting_hint_delete_all">Xóa toàn bộ ghi chú</string>
+    <string name="setting_hint_about">App Ghi Chú v1.0\nMade by Việt Anh</string>
+    <string name="add_hint_title">Thêm ghi chú mới</string>
+    <string name="add_act_addnote">Thêm ghi chú</string>
+    <string name="add_cb_hint">Ghi chú yêu thích</string>
+    <string name="add_hint_content">Nhập nội dung</string>
+    <string name="add_hint_tieude">Nhập tiêu đề</string>
+    <string name="update_title_note">Sửa ghi chú</string>
+    <string name="update_note_title">Cập nhật ghi chú</string>
+    <string name="update_act_upnote">Cập nhật ghi chú</string>
+    <string name="dialog_hint">Bạn có chắc chắn muốn xóa note không?</string>
+    <string name="dialog_act_acc">Đồng ý</string>
+    <string name="dialog_acc_deni">Từ chối</string>
+    <string name="hint_xinchao">Xin chào chủ nhân!</string>
+    <string name="hint_chucngaymoi">Chúc bạn một ngày tốt lành</string>
+</resources>

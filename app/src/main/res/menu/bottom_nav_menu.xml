@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_all"
+        android:title="@string/nav_hint_all"
+        android:icon="@drawable/ic_nav_note"
+        />
+    <item
+        android:id="@+id/nav_favorite"
+        android:title="@string/nav_hint_favorite"
+        android:icon="@drawable/ic_nav_star"
+        />
+    <item
+        android:id="@+id/nav_setting"
+        android:title="@string/nav_hint_setting"
+        android:icon="@drawable/ic_nav_setting"
+        />
+</menu>

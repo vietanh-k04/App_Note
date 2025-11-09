@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <style name="FabCircleShape" parent="Widget.Material3.Button">
+            <item name="shapeAppearance">@style/FabShape</item>
+        </style>
+
+        <style name="FabShape">
+            <item name="cornerSize">50%</item>
+        </style>
+</resources>

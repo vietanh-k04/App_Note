@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AppNote" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.AppNote" parent="Base.Theme.AppNote" />
+    <color name="noteTextColor">#333333</color> <!-- đen xám -->
+    <color name="noteDateColor">#777777</color>
+</resources>
