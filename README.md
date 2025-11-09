@@ -20,12 +20,13 @@ Một ứng dụng ghi chú đơn giản, nhẹ, giao diện pastel đẹp mắt
 ## 📸 Giao diện
 
 ### Light mode
-<img src="screenshots/light.png" width="300">
+<img src="screenshots/anh1.png" width="300">
+<img src="screenshots/anh2.png" width="300">
+<img src="screenshots/anh03.png" width="300">
+<img src="screenshots/anh05.png" width="300">
 
 ### Dark mode
-<img src="screenshots/dark.png" width="300">
-
-> (Bạn chụp screenshot rồi bỏ vào thư mục `/screenshots/` trong GitHub)
+<img src="screenshots/anh04.png" width="300">
 
 ---
 
@@ -34,7 +35,7 @@ Một ứng dụng ghi chú đơn giản, nhẹ, giao diện pastel đẹp mắt
 - Kotlin  
 - Android Jetpack  
 - Room Database  
-- LiveData + ViewModel  
+- LiveData
 - ViewPager2  
 - BottomNavigationView  
 - Material Components  
