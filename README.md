@@ -20,13 +20,15 @@ Một ứng dụng ghi chú đơn giản, nhẹ, giao diện pastel đẹp mắt
 ## 📸 Giao diện
 
 ### Light mode
-<img src="screenshots/anh1.png" width="300">
-<img src="screenshots/anh2.png" width="300">
-<img src="screenshots/anh03.png" width="300">
-<img src="screenshots/anh05.png" width="300">
+<p float="left">
+  <img src="screenshots/anh1.png" width="200" />
+  <img src="screenshots/anh2.png" width="200" />
+  <img src="screenshots/anh03.png" width="200" />
+  <img src="screenshots/anh05.png" width="200" />
+</p>
 
 ### Dark mode
-<img src="screenshots/anh04.png" width="300">
+<img src="screenshots/anh04.png" width="200">
 
 ---
 
@@ -41,28 +43,30 @@ Một ứng dụng ghi chú đơn giản, nhẹ, giao diện pastel đẹp mắt
 - Material Components  
 - SharedPreferences  
 
----
+```md
+## 📦 Kiến trúc dự án
 
-## 📦 Kiến trúc
-com.example.appnote
-│
-├── data/
-│ ├── Note.kt
-│ ├── NoteDao.kt
-│ ├── AppDatabase.kt
-│ ├── ColorsNote.kt
-│ └── NoteRepository.kt
-│
-├── pref/
-│ └── UserPrefs.kt
-│
-├── ui/
-│ ├── MainActivity.kt
-│ ├── AllNotesFragment.kt
-│ ├── FavoritesFragment.kt
-│ ├── SettingFragment.kt
-│ ├── AddNoteActivity.kt
-│ └── EditNoteActivity.kt
-│
-└── ViewPagerAdapter.kt
-└── NoteAdapter.kt
+📁 com.example.appnote  
+│  
+├── 📁 data  
+│   ├── Note.kt  
+│   ├── NoteDao.kt  
+│   ├── AppDatabase.kt  
+│   ├── ColorsNote.kt  
+│   └── NoteRepository.kt  
+│  
+├── 📁 pref  
+│   └── UserPrefs.kt  
+│  
+├── 📁 ui  
+│   ├── MainActivity.kt  
+│   ├── AllNotesFragment.kt  
+│   ├── FavoritesFragment.kt  
+│   ├── SettingFragment.kt  
+│   ├── AddNoteActivity.kt  
+│   └── EditNoteActivity.kt  
+│  
+├── ViewPagerAdapter.kt  
+└── NoteAdapter.kt  
+
+---
